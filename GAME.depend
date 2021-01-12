@@ -818,3 +818,76 @@
 1610253031 source:c:\users\zinis\cdblk\sfml_demo_scene_management\mainmenu.cpp
 	"MainMenu.hpp"
 
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\gamehandler.cpp
+	"GameHandler.hpp"
+	"Level1.hpp"
+	"Level2.hpp"
+	"Level3.hpp"
+	"MainMenu.hpp"
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\gamehandler.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\level1.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\level2.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\level3.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\mainmenu.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\level1.cpp
+	"Level1.hpp"
+	"LevelFailed.hpp"
+
+1610470421 c:\users\zinis\documents\github\sfml_skeleton\levelfailed.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<bits/stdc++.h>
+
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\level2.cpp
+	"Level2.hpp"
+	"LevelFailed.hpp"
+
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\level3.cpp
+	"Level3.hpp"
+	"LevelFailed.hpp"
+
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\levelfailed.cpp
+	"LevelFailed.hpp"
+
+1610470421 source:c:\users\zinis\documents\github\sfml_skeleton\mainmenu.cpp
+	"MainMenu.hpp"
+
