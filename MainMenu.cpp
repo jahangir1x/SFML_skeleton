@@ -3,6 +3,7 @@ using namespace std;
 using namespace sf;
 MainMenu::MenuResult MainMenu::Show(RenderWindow& window, Event& menuEvent)
 {
+	cout << "in main menu" << endl;
 	Texture menuTex;
 	menuTex.loadFromFile("res/MainMenu_all.png");
 	menuSprite.setTexture(menuTex);
